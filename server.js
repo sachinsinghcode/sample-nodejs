@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
             <title>Sample Page</title>
         </head>
         <body>
-            <h1>Sample Page</h1>
+            <h1>This is a Sample Page</h1>
         </body>
         </html>
     `);
